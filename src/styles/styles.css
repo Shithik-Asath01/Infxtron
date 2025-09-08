@@ -32,7 +32,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
-  background: rgba(165, 0, 230, 0.358); /* Transparent background */
+  background: rgba(230, 0, 0, 0.358); /* Transparent background */
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   color: white;
@@ -52,7 +52,7 @@ body {
 }
 
 .nav-links a:hover {
-  color: #00d9ff;
+  color: #ff4444;
 }
 
 /* Make sure particles are always behind everything */
@@ -73,7 +73,7 @@ body {
 }
 
 .navbar a:hover {
-  color: #00d9ff;
+  color: #ff4444;
 }
 
 .btn a {
@@ -86,14 +86,14 @@ body {
 }
 
 .btn-primary {
-  background-image: linear-gradient(to right, #613aeb, #9e00b7);
+  background-image: linear-gradient(to right, #dc2626, #b91c1c);
   /* Adjust colors as desired */
   border: 0;
   margin-top: 12px;
 }
 
 .btn-primary:hover {
-  background-image: linear-gradient(to right, #9e00b7, #613aeb);
+  background-image: linear-gradient(to right, #b91c1c, #dc2626);
   /* Adjust colors as desired */
 }
 
@@ -123,10 +123,10 @@ body {
 }
 @keyframes glow {
   from {
-    text-shadow: 0px 0px 2px #fff, 0px 0px 5px #614ad3;
+    text-shadow: 0px 0px 2px #fff, 0px 0px 5px #dc2626;
   }
   to {
-    text-shadow: 0px 0px 12px #fff, 0px 0px 30px #614ad3;
+    text-shadow: 0px 0px 12px #fff, 0px 0px 30px #dc2626;
   }
 }
 .hero .logo .logo-txt {
@@ -150,18 +150,18 @@ body {
   width: -moz-max-content;
   width: max-content;
   padding: 35px 0;
-  text-shadow: 0px 0px 6px rgba(233, 233, 233, 0.7137254902), 0px 0px 13px #6e21ff;
-  filter: drop-shadow(-3px 0 5px var(#6e21ff));
+  text-shadow: 0px 0px 6px rgba(233, 233, 233, 0.7137254902), 0px 0px 13px #dc2626;
+  filter: drop-shadow(-3px 0 5px #dc2626);
 }
 
 .count-h::after {
   content: "";
   height: 4px;
   display: block;
-  background: linear-gradient(to right, transparent, rgb(174, 0, 255), transparent);
+  background: linear-gradient(to right, transparent, rgb(220, 38, 38), transparent);
   /* Replace var('blue') with blue */
   margin-bottom: 5px;
-  filter: drop-shadow(0 0 5px rgb(0, 0, 255));
+  filter: drop-shadow(0 0 5px rgb(220, 38, 38));
   /* Offset the underline slightly below the text */
 }
 
@@ -197,7 +197,7 @@ body {
   /* Stretch to full width of the text */
   height: 2px;
   /* Set the height of the underline */
-  background-image: linear-gradient(to right, #613aeb, #9e00b7);
+  background-image: linear-gradient(to right, #dc2626, #b91c1c);
   /* Gradient for underline color */
   margin-top: 1px;
   /* Offset the underline slightly below the text */
@@ -380,7 +380,7 @@ body {
 .home .grid-services .card .dotted-design .dot {
   width: 8px;
   height: 8px;
-  background-color: rgba(48, 0, 223, 0.5960784314);
+  background-color: rgba(220, 38, 38, 0.6);
   border-radius: 50%;
 }
 .home .grid-services .card i {
@@ -435,7 +435,7 @@ body {
   text-align: center;
 }
 .home .conatct .d-flex .help a {
-  color: #b923ff;
+  color: #dc2626;
   font-weight: 600;
   padding-left: 8px;
 }
@@ -453,10 +453,10 @@ body {
   content: "";
   height: 4px;
   display: block;
-  background: linear-gradient(to right, transparent, rgb(174, 0, 255), transparent);
+  background: linear-gradient(to right, transparent, rgb(220, 38, 38), transparent);
   /* Replace var('blue') with blue */
   margin-bottom: 5px;
-  filter: drop-shadow(0 0 5px rgb(0, 0, 255));
+  filter: drop-shadow(0 0 5px rgb(220, 38, 38));
 }
 .home .conatct .d-flex .hod {
   text-align: center;
@@ -513,10 +513,10 @@ body {
   content: "";
   height: 4px;
   display: block;
-  background: linear-gradient(to right, transparent, rgb(174, 0, 255), transparent);
+  background: linear-gradient(to right, transparent, rgb(220, 38, 38), transparent);
   /* Replace var('blue') with blue */
   margin-bottom: 5px;
-  filter: drop-shadow(0 0 5px rgb(0, 0, 255));
+  filter: drop-shadow(0 0 5px rgb(220, 38, 38));
   /* Offset the underline slightly below the text */
 }
 .events .ribbon-particles {

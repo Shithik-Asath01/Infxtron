@@ -61,7 +61,7 @@ function Mindscape() {
                   display: "flex",
                   justifyContent: "center",
                   alignItems: "center",
-                  color: "#c03aff",
+                  color: "#dc2626",
                 }}
               >
                 <img

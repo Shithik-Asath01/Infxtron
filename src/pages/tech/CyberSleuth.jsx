@@ -90,7 +90,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
@@ -104,7 +104,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
@@ -118,7 +118,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
@@ -132,7 +132,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
@@ -146,7 +146,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
@@ -162,7 +162,7 @@ function CyberSleuth() {
                 style={{
                   padding: 8,
                   backgroundImage:
-                    "linear-gradient(to right, #613aeb, #9e00b7)",
+                    "linear-gradient(to right, #dc2626, #b91c1c)",
                   display: "none",
                   outline: "none",
                   border: "none",
